@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Aditya%20Thakur&fontSize=46&fontColor=E6EDF3&fontAlignY=38&desc=成長中%20%7C%20Growing&descSize=16&descAlignY=58&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=260&section=header&text=Aditya%20Thakur&fontSize=46&fontColor=E6EDF3&fontAlignY=36&desc=成長中%20%7C%20Growing&descSize=16&descAlignY=58&animation=fadeIn)
 
 <h3 align="center">
 Computer Science Engineering Undergraduate • Aspiring Software Engineer
@@ -108,4 +108,4 @@ I write Java, JavaScript, and React — the compiler is my most honest reviewer 
 — strong fundamentals support everything</i>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer)
