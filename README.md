@@ -64,12 +64,8 @@ I write Java, JavaScript, and React — the compiler is my most honest reviewer 
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaThakur193&bg_color=0D1117&color=9FEF00&line=9FEF00&point=FFFFFF&area=true&hide_border=true"
-    alt="Aditya Thakur's GitHub Activity Graph"
-  />
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaThakur193&theme=radical&hide_border=true)](https://github.com/AdityaThakur193)
+
 
 <p align="center">
 <i>Consistency over intensity — building one commit at a time.</i>
