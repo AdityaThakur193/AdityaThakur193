@@ -5,7 +5,9 @@ Backend / Full-Stack Engineer • Real-Time & AI-Integrated Systems
 </h3>
 
 <p align="center">
-Final-year CS Engineering student building <b>real-time, low-latency systems</b> — WebSocket pipelines, agentic AI workflows, and secure REST APIs.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8AB6D6&center=true&vCenter=true&width=600&lines=Building+real-time%2C+low-latency+systems;WebSockets+%2B+AI+orchestration+%2B+secure+APIs;Shipped%3A+healthcare+ops%2C+AR%2FXR%2C+agentic+AI;Always+shipping+something+new+at+hackathons" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -67,12 +69,29 @@ FastAPI, Docker, Whisper, Gemini · converts lecture video into notes, flashcard
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AdityaThakur193&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AdityaThakur193&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AdityaThakur193&theme=radical&hide_border=true" />
+</p>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaThakur193&theme=radical&hide_border=true)](https://github.com/AdityaThakur193)
 
 <p align="center">
 <i>Consistency over intensity — building one commit at a time.</i>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdityaThakur193/AdityaThakur193/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
