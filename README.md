@@ -88,10 +88,10 @@ FastAPI, Docker, Whisper, Gemini · converts lecture video into notes, flashcard
 
 ---
 
-## 🧊 3D Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdityaThakur193/AdityaThakur193/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/AdityaThakur193/AdityaThakur193/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
