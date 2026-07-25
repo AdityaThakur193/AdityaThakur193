@@ -121,7 +121,7 @@ FastAPI, Docker, Whisper, Gemini · converts lecture video into notes, flashcard
   </a>
   &nbsp;
   <a href="https://www.adityathakur.me/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="32" />
+    <img src="https://img.shields.io/badge/-Portfolio-1E2328?style=for-the-badge" height="32" />
   </a>
 </p>
 
