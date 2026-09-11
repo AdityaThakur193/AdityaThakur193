@@ -42,12 +42,12 @@ I write Python, TypeScript, and Java — the compiler is my most honest reviewer
 
 ---
 
-## 🚀 What I've Built
+## 🚀 Featured Projects
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🏥 <a href="https://github.com/AdityaThakur193/ERFlow">ERFlow</a> — ER Operations Dashboard</h3>
+      <h3 align="left">🏥 ERFlow — ER Operations Dashboard</h3>
       <p align="left">
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -55,45 +55,61 @@ I write Python, TypeScript, and Java — the compiler is my most honest reviewer
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
       </p>
       <p align="left">
-        Full-stack ER operations dashboard (<a href="https://er-flow-kappa.vercel.app/">live demo</a>). Atomic doctor-patient assignment APIs with RBAC middleware. Cut patient assignment time from ~10–15 min to <b>under 10 sec</b>.
+        Full-stack ER operations dashboard with atomic doctor-patient assignment APIs and RBAC middleware. Cut patient assignment time from ~10–15 min to <b>under 10 sec</b>.
+      </p>
+      <p align="left">
+        <a href="https://er-flow-kappa.vercel.app/" target="_blank">🔗 <b>Live Demo</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/AdityaThakur193/ERFlow" target="_blank">💻 <b>GitHub</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🌿 HealthOS — Personal Health OS</h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      </p>
+      <p align="left">
+        Intelligent personal health operating system. Features grounded AI diet planning, an adaptive TDEE expenditure engine, and progressive overload workout tracking.
+      </p>
+      <p align="left">
+        <a href="https://health-os-say.vercel.app/" target="_blank">🔗 <b>Live Demo</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/AdityaThakur193/HealthOs" target="_blank">💻 <b>GitHub</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🛡️ ANVAYA — Air-Gapped Defense RAG</h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+      <p align="left">
+        100% air-gapped multimodal intelligence analysis engine (NTRO SIH25231). Ingests PDF briefs, drone imagery, and wiretaps offline with SQLite FTS5 BM25 and Ollama Llama 3.1.
+      </p>
+      <p align="left">
+        <a href="https://github.com/AdityaThakur193/ANVAYA" target="_blank">💻 <b>GitHub</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/AdityaThakur193/ANVAYA#overview" target="_blank">📖 <b>Architecture & Demo</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="left">🌐 ConverseNow — Speech-to-Sign for AR/XR</h3>
       <p align="left">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
-        <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
-        <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-      </p>
-      <p align="left">
-        Real-time speech-to-sign language translation for AR/XR with <b>~200ms audio processing latency</b>. ISL gloss-generation pipeline with automated fingerspelling fallback.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🤖 <a href="https://github.com/AdityaThakur193/Udyama-Ai">Udyama-AI</a> — Multi-Agent Intelligence</h3>
-      <p align="left">
-        <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white" alt="CrewAI" />
-        <img src="https://img.shields.io/badge/Gemini_API-1A73E8?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-      </p>
-      <p align="left">
-        Autonomous multi-agent market intelligence system. 5-agent sequential workflow with self-repairing JSON pipeline, achieving <b>100% valid schema output</b> across all test runs.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🧠 LectureIQ — AI Learning Assistant</h3>
-      <p align="left">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/Gemini_API-1A73E8?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
-        <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
       </p>
       <p align="left">
-        Gemini 3 Hackathon project (Team Lead). Converts lecture recordings into structured notes, flashcards, and quizzes. <b>90%+ STT accuracy</b>, reducing study prep time by <b>60%</b>.
+        Real-time speech-to-sign language interpretation backend for AR/XR. Built event-driven audio streaming with <b>~200ms processing latency</b> and automated fingerspelling fallback.
+      </p>
+      <p align="left">
+        <a href="https://github.com/AdityaThakur193/ConverseNow-backend" target="_blank">💻 <b>GitHub</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/AdityaThakur193/ConverseNow-backend#system-architecture--workflow" target="_blank">📖 <b>Workflow & Demo</b></a>
       </p>
     </td>
   </tr>
@@ -106,44 +122,32 @@ I write Python, TypeScript, and Java — the compiler is my most honest reviewer
 <p align="center"><b>Languages</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-<p align="center"><b>Backend & Real-Time</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/REST_API-FF5722?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
-</p>
-
-<p align="center"><b>Frontend & UI</b></p>
+<p align="center"><b>Frontend</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<p align="center"><b>AI & Specialized Tools</b></p>
+<p align="center"><b>Backend</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Gemini_API-1A73E8?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
-  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
-  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white" alt="CrewAI" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
 </p>
 
-<p align="center"><b>Database & DevOps</b></p>
+<p align="center"><b>Database, Cloud & Tools</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
