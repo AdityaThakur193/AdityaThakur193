@@ -166,19 +166,6 @@ I write Python, TypeScript, and Java — the compiler is my most honest reviewer
 
 ---
 
-### 📋 Detailed Competencies
-
-- **Languages**: Java (DSA), TypeScript, JavaScript, Python, SQL, C, C++
-- **Backend & Distributed Systems**: Node.js, Express.js, FastAPI, Redis (Caching & BullMQ Queues), WebSockets, REST APIs, System Architecture
-- **Frontend Development**: Next.js (App Router), React.js, Tailwind CSS, Redux, Zustand
-- **AI & Data Engineering**: Multimodal RAG (ChromaDB, SQLite FTS5, RRF), Multi-Agent Systems (LangChain, AutoGen), Local LLMs (Ollama Llama 3.1 8B), Gemini Vision API, Whisper STT (Faster-Whisper INT8), 64-bit SimHash Deduplication
-- **Databases**: PostgreSQL, MongoDB, SQLite, Redis
-- **Security & Authentication**: JWT, OAuth 2.0, Helmet CSP, Bcrypt, Rate Limiting & Input Sanitization
-- **Testing & Quality**: Jest, Supertest, Vitest (77+ Automated Unit & Integration Tests)
-- **Tools & DevOps**: Docker, Git, GitHub Actions, Postman, Linux
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
