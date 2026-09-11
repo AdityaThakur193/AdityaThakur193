@@ -32,13 +32,19 @@ I write Python, TypeScript, and Java — the compiler is my most honest reviewer
 
 ## 🧑‍💻 About Me
 
-🎓 **B.Tech Computer Science Engineering** (Final Year)  
-**- GITAM Deemed University** (2023 – 2027)
+🎓 **B.Tech Computer Science & Engineering** (Final Year, Batch 2023 – 2027)  
+🏛️ **GITAM Deemed University** |
 
-- Backend/full-stack engineer specializing in **real-time systems** (WebSockets, audio pipelines) and **AI-integrated services** (speech-to-text, translation, multi-agent orchestration)
-- Shipped production-facing systems across **healthcare operations, AR/XR translation, and multi-agent market intelligence**
-- 230+ LeetCode problems solved (Java) — DSA fundamentals stay sharp alongside the systems work
-- Disciplined, consistent, long-term focused
+- ⚡ **Full-Stack & AI Systems Architect**: Specializing in high-velocity full-stack web applications, real-time audio/WebSocket streaming pipelines, and local multi-agent AI orchestration.
+- 🏢 **Industry Internship Experience**:
+  - **Allshore Technologies** (*Application Engineering Intern*): Architected **ERFlow**, a high-concurrency ER operations platform built with Next.js, Express, MongoDB, and Redis/BullMQ queue brokers.
+  - **CXR GITAM** (*Backend Developer Intern*): Engineered **ConverseNow**, a real-time 16kHz PCM16 audio translation backend using FastAPI WebSockets & Whisper STT (~200ms latency).
+- 🛡️ **AI Reliability & Systems Rigor**:
+  - Engineered a **deterministic math-auditing layer** for **HealthOS**, grounding computer vision estimates against the ICMR-NIN IFCT database to eliminate 100% of LLM calculation errors.
+  - Architected **ANVAYA** (NTRO SIH25231), an air-gapped multimodal defense RAG engine with SQLite FTS5 BM25 + ChromaDB RRF search and 64-bit SimHash deduplication.
+  - Quality-first mindset backed by **77+ automated unit & integration tests** (Jest, Supertest, Vitest) achieving 85%+ coverage.
+- 🧠 **Problem Solving**: **230+ LeetCode problems solved in Java** — actively maintaining hand-written syntax rigor for technical whiteboard interviews.
+- 🏆 **Certified Professional**: Infosys Certified & IBM Software Engineering / Design Badged.
 
 ---
 
@@ -203,10 +209,11 @@ I write Python, TypeScript, and Java — the compiler is my most honest reviewer
 
 ## 🎯 Open For
 
-- 💼 **Backend / Full-Stack Engineer** roles (2026 grad hiring, India)
-- 🧠 Roles building **real-time systems** or **AI-integrated products**
-- 🏆 Hackathons & collaborative projects
-- 🌱 Open-source contributions
+- 💼 **Software Development Engineer (SDE) / Full-Stack Engineer** (2027 Grad Hiring & 4th-Year Full-Time Internships)
+- 🤖 **AI Systems & Backend Engineering Roles** (FastAPI, Next.js, Multi-Agent Systems, RAG Pipelines, Redis/BullMQ)
+- 🌐 **Remote AI & Full-Stack Contracts** (High-velocity feature delivery & system architecture)
+- 🚀 **AI-Native Engineering Roles** (Build-along mentorship, technical product orchestration)
+- 🏆 **High-Impact Hackathons** & Collaborative Open-Source Projects
 
 ---
 
