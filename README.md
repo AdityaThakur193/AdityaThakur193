@@ -176,7 +176,7 @@ I write Python, TypeScript, and Java — the compiler is my most honest reviewer
 
 <p align="center">
   <a href="https://github.com/AdityaThakur193">
-    <img src="https://github-trophies.vercel.app/?username=AdityaThakur193&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=AdityaThakur193&theme=flat&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=4" alt="GitHub Trophies" />
   </a>
 </p>
 
